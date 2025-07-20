@@ -1,0 +1,6 @@
+application,issue,solution,severity
+Excel,Crashes when opening large files,"1. Increase memory allocation 2. Disable add-ins 3. Split large files 4. Use 64-bit Excel version",High
+Outlook,Cannot send emails,"1. Check internet connection 2. Verify SMTP settings 3. Clear Outlook cache 4. Recreate email profile",Medium
+Word,Document formatting issues,"1. Clear formatting 2. Update document styles 3. Check compatibility mode 4. Use Format Painter carefully",Low
+PowerPoint,Presentation not loading,"1. Check file corruption 2. Try opening in Safe Mode 3. Repair Office installation 4. Convert to newer format",Medium
+Office 365,Licensing activation failed,"1. Sign in with correct account 2. Check subscription status 3. Run Office activation troubleshooter 4. Reinstall Office",High

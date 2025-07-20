@@ -1,0 +1,6 @@
+component,issue,solution,severity
+Printer,Not responding or printing,"1. Check power and connections 2. Update printer drivers 3. Clear print queue 4. Restart print spooler service",Medium
+Monitor,No display or flickering,"1. Check cable connections 2. Test with different cable 3. Update graphics drivers 4. Check monitor settings",High
+RAM,System running slowly,"1. Check memory usage in Task Manager 2. Run memory diagnostic 3. Reseat RAM modules 4. Test individual modules",Medium
+Hard Drive,Disk errors or slow performance,"1. Run CHKDSK utility 2. Check disk health with CrystalDiskInfo 3. Defragment disk 4. Consider SSD replacement",High
+CPU,Overheating or thermal throttling,"1. Clean dust from fans and heatsink 2. Replace thermal paste 3. Check fan operation 4. Improve case ventilation",Critical

@@ -1,0 +1,14 @@
+# Core dependencies for IT Support Agent Demo
+flask==3.1.1
+requests==2.31.3
+pandas==2.2.3
+langchain==0.3.25
+langchain-openai==0.3.18
+python-dotenv==1.1.0
+typing-extensions==4.12.2
+
+# Character detection (to resolve the warnings)
+charset-normalizer==3.3.2
+
+# Logging and utilities
+colorlog>=6.9.0

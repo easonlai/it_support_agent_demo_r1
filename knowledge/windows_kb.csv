@@ -1,0 +1,6 @@
+issue,category,solution,severity
+Windows 11 won't boot,Boot Issues,"1. Press F8 during startup 2. Select Safe Mode 3. Run System File Checker 4. Check Event Viewer for errors",High
+Blue Screen of Death (BSOD),System Crashes,"1. Note error code 2. Boot into Safe Mode 3. Update drivers 4. Check hardware connections 5. Run memory test",Critical
+Slow system performance,Performance,"1. Check Task Manager for resource usage 2. Disable startup programs 3. Run disk cleanup 4. Check for malware 5. Consider SSD upgrade",Medium
+Windows Update fails,Updates,"1. Run Windows Update Troubleshooter 2. Clear Windows Update cache 3. Reset Windows Update components 4. Check disk space",Medium
+WiFi connection issues,Network,"1. Restart network adapter 2. Update WiFi drivers 3. Reset network settings 4. Check router configuration",Medium

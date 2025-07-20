@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.env_private
+config/config_private.py
+agents/__pycache__/
+config/__pycache__/
+knowledge/__pycache__/
+servers/__pycache__/
+ui/__pycache__/
+**/__pycache__/
