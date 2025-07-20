@@ -96,7 +96,7 @@ def display_process_details(result: dict):
 def main():
     # Header
     st.title("🛠️ IT Support Agent")
-    st.markdown("*Powered by Azure OpenAI with Multi-Agent Architecture*")
+    st.markdown("*Powered by Azure OpenAI with Multi-Agent Architecture in LangChain*")
     
     # Sidebar with system status
     with st.sidebar:
