@@ -2,7 +2,7 @@
 
 ## 📺 Video Demo
 
-Watch a demo of this Agentic AI for IT Support on YouTube: [https://youtu.be/D0LUBKL3M_E](https://youtu.be/D0LUBKL3M_E)
+Watch a demo of this Agentic AI for IT Support on [YouTube](https://youtu.be/D0LUBKL3M_E).
 
 A multi-agent AI system designed to provide intelligent IT support using **Azure OpenAI**. This system uses **LangChain** as the multi-agent orchestration framework, and **Streamlit** to serve the web UI. It demonstrates how specialized AI agents can work together to resolve various IT issues including Windows 11, Microsoft Office, and hardware problems.
 
